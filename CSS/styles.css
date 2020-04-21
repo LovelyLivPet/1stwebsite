@@ -1,0 +1,16 @@
+
+  body{
+    background-color: #f4f4f4;
+  }
+
+  hr{
+    border-style: none;
+    border-top: 1px dotted #8566aa;
+    border-width: 10px;
+    width: 20%;
+  }
+
+  h1,h2,h3{
+    color: #8ec6c5;
+    font-family: Copperplate;
+  }
